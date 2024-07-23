@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITO5032_MyCodeSnippet.props" />
+</Project>

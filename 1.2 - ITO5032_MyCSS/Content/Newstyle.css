@@ -1,0 +1,23 @@
+﻿body {
+    color: red;
+    // The [body] selector will try to change all the elements that is within the <body> element’s font color to be red (In this case, it will try to change <h1> and <p> element, however,
+it won’t be successful as it has been declared again in the class
+selector called [testing].
+}
+
+//Syntax of declare a class selector is use “.” With the class name
+.testing {
+    color: blue;
+    //It will eventually try to change all the elements that is within the body tag’s font color to be blue. Since the last attribute declared will be applied to the element.
+}
+
+h1 {
+    color: #FFCC00;
+    //Although class selector called [testing] is trying to change all the elements that is within the body tag’s font color to be blue, the same attribute has been declared again in h1, so the h1’s colour will be orange. #FFCC00 is a HEX representation of a colour. If it is converted to RGB Colour (Red Green Blue), it will be written as rgb(255,204,0)
+}
+
+p {
+    color: rgba(0, 255, 0, 0.5);
+    //Same with h1, it will try to change the colour to be green, 0.5 means set the transparency level to be 50% transparency ITO5032 M1.2 Studio Activities | Page 3 of 22 background: darkgreen;
+    //It will also try to change the background colour of p element to be dark green
+}

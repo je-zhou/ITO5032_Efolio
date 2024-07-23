@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITO5032_MyCodeSnippet/1.0.0": {
+        "runtime": {
+          "ITO5032_MyCodeSnippet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITO5032_MyCodeSnippet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

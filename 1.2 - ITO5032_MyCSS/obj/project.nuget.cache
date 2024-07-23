@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JSfWlR69sk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerry\\source\\repos\\ITO5032_MyCSS\\ITO5032_MyCSS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerry\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
