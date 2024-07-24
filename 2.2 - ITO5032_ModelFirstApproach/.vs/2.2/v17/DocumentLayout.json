@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\2.2 - ITO5032_ModelFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115EC969-5A93-408A-8A9D-1AA17A1AC693}|2.2.csproj|c:\\development\\masters-of-comp-sci\\ito5032-tp4-24\\ito5032_efolio\\2.2 - ito5032_modelfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{115EC969-5A93-408A-8A9D-1AA17A1AC693}|2.2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\2.2 - ITO5032_ModelFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\2.2 - ITO5032_ModelFirstApproach\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T01:48:09.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
