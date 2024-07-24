@@ -1,0 +1,38 @@
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\appsettings.Development.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\appsettings.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\3.1 - NotifyJS.staticwebassets.runtime.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\3.1 - NotifyJS.exe
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\3.1 - NotifyJS.deps.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\3.1 - NotifyJS.runtimeconfig.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\3.1 - NotifyJS.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\3.1 - NotifyJS.pdb
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.AssemblyInfoInputs.cache
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.AssemblyInfo.cs
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.csproj.CoreCompileInputs.cache
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.RazorAssemblyInfo.cache
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.RazorAssemblyInfo.cs
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.sourcelink.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets\msbuild.3.1 - NotifyJS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets\msbuild.build.3.1 - NotifyJS.props
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.3.1 - NotifyJS.props
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.3.1 - NotifyJS.props
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\scopedcss\bundle\3.1 - NotifyJS.styles.css
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\scopedcss\projectbundle\3.1 - NotifyJS.bundle.scp.css
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\refint\3.1 - NotifyJS.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.pdb
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.genruntimeconfig.cache
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\ref\3.1 - NotifyJS.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\System.Web.Optimization.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\bin\Debug\net8.0\WebGrease.dll
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - NotifyJS.csproj.AssemblyReference.cache
+C:\Development\Masters-Of-Comp-Sci\ITO5032-TP4-24\ITO5032_Efolio\3.1 - NotifyJS\obj\Debug\net8.0\3.1 - No.DF9C8BB0.Up2Date

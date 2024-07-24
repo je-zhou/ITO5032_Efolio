@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\3.1 - NotifyJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E91D06-2AA5-47BB-B44F-4B593D7C7999}|3.1 - NotifyJS.csproj|c:\\development\\masters-of-comp-sci\\ito5032-tp4-24\\ito5032_efolio\\3.1 - notifyjs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77E91D06-2AA5-47BB-B44F-4B593D7C7999}|3.1 - NotifyJS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E91D06-2AA5-47BB-B44F-4B593D7C7999}|3.1 - NotifyJS.csproj|c:\\development\\masters-of-comp-sci\\ito5032-tp4-24\\ito5032_efolio\\3.1 - notifyjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77E91D06-2AA5-47BB-B44F-4B593D7C7999}|3.1 - NotifyJS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\3.1 - NotifyJS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\3.1 - NotifyJS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:08:50.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\3.1 - NotifyJS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Development\\Masters-Of-Comp-Sci\\ITO5032-TP4-24\\ITO5032_Efolio\\3.1 - NotifyJS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:18:48.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
